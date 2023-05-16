@@ -1,6 +1,6 @@
 # bottomnavigationbar
 
-A new Flutter project.
+A practice project to learn how Bottom Navigation Bar works! 
 
 ## Getting Started
 
